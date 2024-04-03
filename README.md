@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 Here are some of my notable projects:
 
 - [Noobvim](https://github.com/aayushshres/Noobvim): Neovim config aiming to provide a starting point for your configuration.
-- [Monke Discord Bot](https://github.com/aayushshres/Monke-Discord-Bot): A Discord bot to bring joy in your server.
+- [Monke](https://github.com/aayushshres/Monke-Discord-Bot): A Discord bot to bring joy in your server.
 - [ToDo](https://github.com/aayushshres/ToDo): FullStack Flutter Todo app with django backend.
 
 ## Get in Touch
