@@ -1,6 +1,6 @@
 # Hello, I'm Aayush Shrestha 👋
 
-🎓 Student | 🌱 Aspiring Developer | 💻 FOSS
+🎓 Student Developer | 💻 FOSS
 
 Welcome to my GitHub profile!
 
