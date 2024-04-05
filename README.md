@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 
 - **Programming Languages**: C, C++, Java, Python, Lua, Vimscript
 - **Web Development**: HTML, CSS, JavaScript, React
-- **App Development**: Kotlin, Dart
-- **Database**: MongoDB
+- **App Development**: Kotlin, Flutter, Dart
+- **Database**: MongoDB, Supabase
 - **Tools & Technologies**: Git, Docker, Vim, Linux
 
 ## Projects
@@ -17,8 +17,8 @@ Welcome to my GitHub profile!
 Here are some of my notable projects:
 
 - [Noobvim](https://github.com/aayushshres/Noobvim): Neovim config aiming to provide a starting point for your configuration.
-- [Monke](https://github.com/aayushshres/Monke-Discord-Bot): A Discord bot to bring joy in your server.
-- [ToDo](https://github.com/aayushshres/ToDo): FullStack Flutter Todo app with django backend.
+- [Dash Blog](https://github.com/aayushshres/Blog-App): Fullstack Flutter Blog App with state management using Supabase and BLoC.
+- [Monke](https://github.com/aayushshres/Monke-Discord-Bot): A Discord Bot to bring joy in your server.
 
 ## Get in Touch
 
