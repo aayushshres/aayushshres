@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 ## Skills
 
 - **Programming Languages**: C, C++, Java, Python, Lua, Vimscript
-- **Web Development**: HTML, CSS, JavaScript, TypeScript React
+- **Web Development**: HTML, CSS, JavaScript, TypeScript, React
 - **App Development**: Kotlin, Flutter, Dart
 - **Database**: MongoDB, Supabase
 - **Tools & Technologies**: Git, Docker, Vim, Linux
