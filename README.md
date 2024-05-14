@@ -20,6 +20,7 @@ Here are some of my notable projects:
 - [Dash Blog](https://github.com/aayushshres/Blog-App): Fullstack Flutter Blog App with state management using Supabase and BLoC.
 - [ECAN Nepal](https://play.google.com/store/apps/details?id=com.susankya.ecan&hl=en&gl=US&pli=1): Flutter App for ECAN Nepal.
 - [Monke](https://github.com/aayushshres/Monke-Discord-Bot): A Discord Bot to bring joy in your server.
+- [Termfolio](https://termfolio-kappa.vercel.app/): Interactive Web Terminal Portfolio.
 
 ## Get in Touch
 
