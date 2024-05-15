@@ -18,7 +18,7 @@ Here are some of my notable projects:
 
 - [Noobvim](https://github.com/aayushshres/Noobvim): Neovim config aiming to provide a starting point for your configuration.
 - [Dash Blog](https://github.com/aayushshres/Blog-App): Fullstack Flutter Blog App with state management using Supabase and BLoC.
-- [ECAN Nepal](https://play.google.com/store/apps/details?id=com.susankya.ecan&hl=en&gl=US&pli=1): Flutter App for ECAN Nepal.
+- [ECAN Nepal](https://play.google.com/store/apps/details?id=com.susankya.ecan&hl=en&gl=US&pli=1): Community Engagement Flutter App for ECAN Nepal.
 - [Monke](https://github.com/aayushshres/Monke-Discord-Bot): Discord Bot to bring joy in your server.
 - [Termfolio](https://termfolio-kappa.vercel.app/): Interactive Web Terminal Portfolio.
 - [Sphere](https://sphere-smoky.vercel.app/): Interactive 3D shpere made using Three.js.
