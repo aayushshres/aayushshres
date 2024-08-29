@@ -1,6 +1,6 @@
 # Hello, I'm Aayush Shrestha 👋
 
-🎓 Student
+📱Flutter Developer
 
 Welcome to my GitHub profile!
 
@@ -25,4 +25,4 @@ Here are some of my notable projects:
 
 ## Get in Touch
 
-- Twitter: [aayush_shres](https://twitter.com/aayush_shres)
+- Twitter: [aayushres](https://twitter.com/aayushres)
