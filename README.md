@@ -25,4 +25,4 @@ Here are some of my notable projects:
 
 ## Get in Touch
 
-- Twitter: [aayushres](https://twitter.com/aayushres)
+- Linkedin: [Aayush Shrestha](https://www.linkedin.com/in/aayushshres/)
