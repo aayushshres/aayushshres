@@ -1,6 +1,6 @@
 # Hello, I'm Aayush Shrestha 👋
 
-📱Flutter Developer
+📱Flutter and Web Developer
 
 Welcome to my GitHub profile!
 
